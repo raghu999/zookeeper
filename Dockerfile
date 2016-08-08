@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Ian Babrou <ibobrik@gmail.com>
+
 
 RUN apt-get update && \
     apt-get -y upgrade && \
